@@ -1,0 +1,31 @@
+.file {
+
+   background-color: rgb(236, 220, 234);
+    height: auto;
+}
+
+.file img {
+
+    height: 50vh;
+    border-radius: 20%;
+    box-shadow: 2px 3px 2px 3px grey ;
+    
+}
+
+.form-container {
+    background-color: white;
+    padding: 20px; /* Add padding for spacing inside the form container */
+    border-radius: 10px; /* Optional: Add border radius for rounded corners */
+    box-shadow: 2px 3px 2px 3px grey ;
+    /* border: 2px solid grey; */
+}
+
+.form-container h2 {
+
+    color: black;
+}
+
+.form-container p {
+
+    color: black;
+}

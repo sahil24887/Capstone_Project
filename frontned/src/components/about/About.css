@@ -1,0 +1,39 @@
+.About {
+  padding: 40px;
+  background-color: #f9f9f9;
+}
+
+.Card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border: 1px solid #ddd; /* Add border for the cards */
+  border-radius: 8px; /* Add border radius */
+  margin-bottom: 20px;
+}
+
+.Img {
+  height: 200px;
+  object-fit: cover;
+  background-color: #ffffff;
+  border-bottom: 1px solid #ddd; /* Add border at the bottom of the image */
+}
+
+.Title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.CardGroup {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: rgb(236, 220, 234);
+  padding: 20px; /* Add padding to the CardGroup */
+  border-radius: 8px; /* Add border radius */
+}
+
+/* Add more styles as needed */

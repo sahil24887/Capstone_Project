@@ -1,0 +1,28 @@
+.navtest
+{
+    background-color: rgb(91, 22, 107) !important;
+    
+    font-size: medium;
+    font-family:cursive;
+    font-weight: lighter;
+    font-display:inherit;
+    width:98.5vw;
+}
+
+
+.me-auto
+{
+    color: whitesmoke !important;
+}
+
+.nav-link-color {
+    color: white;
+    
+}
+
+.nav-link-color :hover{
+    color: white;
+}
+.dropdown-color{
+    color: white;
+}

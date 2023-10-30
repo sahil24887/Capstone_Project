@@ -1,0 +1,65 @@
+.home .homeimg {
+
+    height: 50vh;
+    width: 45vw;
+}
+
+.home {
+
+    background-image: url('https://emareye.com/mricfiles/uploads/2014/10/light-grey-background-pattern-i1.jpg');
+    width: 98vw;
+}
+
+
+.home Button {
+
+    border-radius: 50px;
+    background-color: yellow;
+}
+
+.grid Button {
+
+    border-radius: 50px;
+    background-color: yellow !important;
+    
+}
+
+.grid {
+
+    width: 98vw;
+}
+
+
+.cards {
+
+    width: 98vw;
+}
+
+.cards .logofirst {
+
+    height: 12vh;
+    width: 10vw;
+    align-items: center;
+}
+
+.cards .logosecond {
+
+    height: 12vh;
+    width: 10vw;
+    align-items: center;
+}
+
+.cards .logothird {
+
+    height: 12vh;
+    width: 10vw;
+    align-items: center;
+}
+
+.third {
+
+    background-image: url('https://img.freepik.com/premium-photo/gray-abstract-wall-display-product_36835-2777.jpg');
+    height: 55vh;
+    width: 98vw;
+}
+

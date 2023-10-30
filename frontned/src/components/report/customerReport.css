@@ -1,0 +1,58 @@
+.report{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+   
+}
+
+.personal{
+    background-color: ffffff;
+    /* border: 2px solid red; */
+    width: 90%;
+    margin: auto;
+    box-shadow: 2px 3px 0px 0px grey; 
+    border: 2px solid grey;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+
+.financial{
+    background-color: ffffff;
+    /* border: 2px solid red; */
+    width: 90%;
+    margin: auto;
+    box-shadow: 2px 3px 0px 0px grey; 
+    border: 2px solid grey;
+    margin-bottom: 1%;
+}
+.graph{
+    background-color: #ffffff;
+    /* border: 2px solid red; */
+    width: 90%;
+    margin: auto;
+    box-shadow: 2px 3px 0px 0px grey; 
+    border: 2px solid grey;
+    margin-bottom: 1%;
+}
+
+.graph-dark
+{
+    background-color: gold;
+   color: white;
+    /* border: 2px solid red; */
+    width: 90%;
+    margin: auto;
+    box-shadow: 3px 5px 0px 0px rgba(0, 0, 0, 0.75); 
+    margin-bottom: 1%;
+}
+.graph-dark button{
+    background-color: white;
+    border-radius: 10px;
+}
+
+.graph button{
+    background-color: black;
+    color: gold;
+    border-radius: 10px;
+}

@@ -1,0 +1,21 @@
+.follow-text {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  .social-icons {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .icon {
+    font-size: 2rem;
+    color: white;
+    transition: color 0.3s ease; /* Add transition effect to color change */
+  }
+  
+  .icon:hover {
+    color: #ffcc00; /* Change the color on hover */
+  }
+  

@@ -1,0 +1,40 @@
+.main_products {
+  display: flex;
+  flex-direction: column; /* Set flex direction to column */
+  align-items: center; /* Center items horizontally */
+  gap: 20px; /* Add some vertical space between items */
+}
+
+.main_products_container {
+ background-color: rgb(236, 220, 234);
+ color: rgb(0,0,0);
+}
+.main_products_container_dark{
+  background-color: grey;
+  color: rgb(236, 220, 234);
+}
+
+.theme-changer{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.theme-changer span{
+  text-decoration: solid;
+  font-size: x-large;
+}
+.theme-changer button{
+  background-color: transparent;
+  box-shadow: 2px 2px 2px 2px  black;
+  color: black;
+  width: 6rem;
+  height: 3.5rem;
+  border-radius: 5px;
+}
+
+.theme-changer button:hover{
+  background-color: black;
+  color: floralwhite;
+}
+
+
